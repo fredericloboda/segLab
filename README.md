@@ -1,5 +1,3 @@
-Use this corrected version for `README.md`:
-
 # SegLab
 
 SegLab is a desktop application for brain lesion segmentation on T1-weighted MRI with manual mask creation, gold-mask comparison, Dice/IoU-based evaluation, progress tracking, and offline teaching-package import.
